@@ -837,7 +837,7 @@
   },
   {
     "name": "Grub-Hive_External",
-    "logic": "Hive_03[top1]"
+    "logic": "Hive_03[top1] + (LEFTCLAW | WINGS | ENEMYPOGOS)"
   },
   {
     "name": "Grub-Hive_Internal",
